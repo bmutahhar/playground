@@ -1,5 +1,5 @@
 {
-	"file": "https://dl.dropboxusercontent.com/u/36962787/UpSet/movies.csv",
+	"file": "https://raw.githubusercontent.com/bmutahhar/playground/main/data.json",
 	"name": "Sample",
 	"header": 0,
 	"separator": ",",
@@ -11,8 +11,6 @@
 		{ "type": "string", "index": 3, "name": "Value Proposition text" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 4, "end": 13 },
-		{ "format": "binary", "start": 15, "end": 23 },
-		{ "format": "binary", "start": 25, "end": 41 }
+		{ "format": "binary", "start": 4, "end": 13 }
 	]
 }
